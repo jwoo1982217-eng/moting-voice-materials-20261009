@@ -1,0 +1,1278 @@
+{
+  "schemaVersion": 1,
+  "repository": "jwoo1982217-eng/moting-voice-materials-20261009",
+  "publishedDate": "2026-10-10",
+  "audioFileCount": 104,
+  "audioBytes": 4318069,
+  "originPathCount": 107,
+  "files": [
+    {
+      "path": "audio/e3/e33334b5cb4dd77bee8202dffe92bf7de23936a9bc9344146c34982ad62f8943.mp3",
+      "sha256": "e33334b5cb4dd77bee8202dffe92bf7de23936a9bc9344146c34982ad62f8943",
+      "bytes": 58558,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/e3/e33334b5cb4dd77bee8202dffe92bf7de23936a9bc9344146c34982ad62f8943.mp3"
+    },
+    {
+      "path": "audio/20/2058ffff2ddc3daa28ace3dbe1ad59446ead2b9be806d9a0705ab1870ef32ce0.mp3",
+      "sha256": "2058ffff2ddc3daa28ace3dbe1ad59446ead2b9be806d9a0705ab1870ef32ce0",
+      "bytes": 40586,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/20/2058ffff2ddc3daa28ace3dbe1ad59446ead2b9be806d9a0705ab1870ef32ce0.mp3"
+    },
+    {
+      "path": "audio/c5/c52e8bc6f010e918283036a535819f0370dfbb79abd22dbd55425328f1fe68d2.mp3",
+      "sha256": "c52e8bc6f010e918283036a535819f0370dfbb79abd22dbd55425328f1fe68d2",
+      "bytes": 26830,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/c5/c52e8bc6f010e918283036a535819f0370dfbb79abd22dbd55425328f1fe68d2.mp3"
+    },
+    {
+      "path": "audio/af/afd6b2ff6fa33eb6e53815a2ad2864dbb20ae66d53a58fc825b767efa4804e49.mp3",
+      "sha256": "afd6b2ff6fa33eb6e53815a2ad2864dbb20ae66d53a58fc825b767efa4804e49",
+      "bytes": 123342,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/af/afd6b2ff6fa33eb6e53815a2ad2864dbb20ae66d53a58fc825b767efa4804e49.mp3"
+    },
+    {
+      "path": "audio/bf/bffc222d349d20274f54b3ca1c09ec6c149c88deb74d3f3fd9e61aaf0a8696d2.mp3",
+      "sha256": "bffc222d349d20274f54b3ca1c09ec6c149c88deb74d3f3fd9e61aaf0a8696d2",
+      "bytes": 16344,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/bf/bffc222d349d20274f54b3ca1c09ec6c149c88deb74d3f3fd9e61aaf0a8696d2.mp3"
+    },
+    {
+      "path": "audio/27/27a13e9c8d605b6f1dfc2e128c6ab157f761031389e5081e0a9bbd4993bbe7bd.mp3",
+      "sha256": "27a13e9c8d605b6f1dfc2e128c6ab157f761031389e5081e0a9bbd4993bbe7bd",
+      "bytes": 28883,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/27/27a13e9c8d605b6f1dfc2e128c6ab157f761031389e5081e0a9bbd4993bbe7bd.mp3"
+    },
+    {
+      "path": "audio/9a/9a7e26dcaca20c5a9fec737beb227c7ec1fffd692bd2b20a831ca150c90889dd.mp3",
+      "sha256": "9a7e26dcaca20c5a9fec737beb227c7ec1fffd692bd2b20a831ca150c90889dd",
+      "bytes": 10769,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/9a/9a7e26dcaca20c5a9fec737beb227c7ec1fffd692bd2b20a831ca150c90889dd.mp3"
+    },
+    {
+      "path": "audio/0b/0b1118367f4e92273c43afb84642db8ac4643c30658e74675e90042c629b3927.mp3",
+      "sha256": "0b1118367f4e92273c43afb84642db8ac4643c30658e74675e90042c629b3927",
+      "bytes": 18852,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/0b/0b1118367f4e92273c43afb84642db8ac4643c30658e74675e90042c629b3927.mp3"
+    },
+    {
+      "path": "audio/14/140d2849f2c736202b96ce778793dbd34a2a2fe5b86cefb8753e276d375a6699.mp3",
+      "sha256": "140d2849f2c736202b96ce778793dbd34a2a2fe5b86cefb8753e276d375a6699",
+      "bytes": 14046,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/14/140d2849f2c736202b96ce778793dbd34a2a2fe5b86cefb8753e276d375a6699.mp3"
+    },
+    {
+      "path": "audio/57/573160331e1aafea84c5e760b69c83096a03b9b79ea010cfcfde9b2c52ef8bbc.mp3",
+      "sha256": "573160331e1aafea84c5e760b69c83096a03b9b79ea010cfcfde9b2c52ef8bbc",
+      "bytes": 10222,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/57/573160331e1aafea84c5e760b69c83096a03b9b79ea010cfcfde9b2c52ef8bbc.mp3"
+    },
+    {
+      "path": "audio/5d/5d33ee21257df61db53dae2b29846b2306818e1cc0164899ccf9136b4bdca30e.mp3",
+      "sha256": "5d33ee21257df61db53dae2b29846b2306818e1cc0164899ccf9136b4bdca30e",
+      "bytes": 28770,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/5d/5d33ee21257df61db53dae2b29846b2306818e1cc0164899ccf9136b4bdca30e.mp3"
+    },
+    {
+      "path": "audio/2f/2f650124cff6b8f29f5a1f20e833da0b8260d87c21a5e8895b060a632df0b01a.mp3",
+      "sha256": "2f650124cff6b8f29f5a1f20e833da0b8260d87c21a5e8895b060a632df0b01a",
+      "bytes": 67528,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/2f/2f650124cff6b8f29f5a1f20e833da0b8260d87c21a5e8895b060a632df0b01a.mp3"
+    },
+    {
+      "path": "audio/45/4564ad9b5440d91148bc4cc3003742102804281f0bd686beb634b84f5a22b537.mp3",
+      "sha256": "4564ad9b5440d91148bc4cc3003742102804281f0bd686beb634b84f5a22b537",
+      "bytes": 68171,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/45/4564ad9b5440d91148bc4cc3003742102804281f0bd686beb634b84f5a22b537.mp3"
+    },
+    {
+      "path": "audio/db/db2744b7469e728aa5eaf15b15ff9739150a53c23d9900f421cf24e400ec000d.mp3",
+      "sha256": "db2744b7469e728aa5eaf15b15ff9739150a53c23d9900f421cf24e400ec000d",
+      "bytes": 17202,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/db/db2744b7469e728aa5eaf15b15ff9739150a53c23d9900f421cf24e400ec000d.mp3"
+    },
+    {
+      "path": "audio/ed/ed4fb05cee277a8a1cef1215ec569e6449316dbc8a6a766345786018de9202de.mp3",
+      "sha256": "ed4fb05cee277a8a1cef1215ec569e6449316dbc8a6a766345786018de9202de",
+      "bytes": 30555,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/ed/ed4fb05cee277a8a1cef1215ec569e6449316dbc8a6a766345786018de9202de.mp3"
+    },
+    {
+      "path": "audio/c8/c8934c6475017c102be8f92abebdc74d679705c96fa239f776556a05399e9186.mp3",
+      "sha256": "c8934c6475017c102be8f92abebdc74d679705c96fa239f776556a05399e9186",
+      "bytes": 37715,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/c8/c8934c6475017c102be8f92abebdc74d679705c96fa239f776556a05399e9186.mp3"
+    },
+    {
+      "path": "audio/e5/e5f70a188001c43dfceab11ef5b3a96cec466f079b974c6485db08203fd45e93.mp3",
+      "sha256": "e5f70a188001c43dfceab11ef5b3a96cec466f079b974c6485db08203fd45e93",
+      "bytes": 139828,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/e5/e5f70a188001c43dfceab11ef5b3a96cec466f079b974c6485db08203fd45e93.mp3"
+    },
+    {
+      "path": "audio/88/88a26905768e3d8667a1a53d9945b88d389f89d1a159ac852ee1416f9884d620.mp3",
+      "sha256": "88a26905768e3d8667a1a53d9945b88d389f89d1a159ac852ee1416f9884d620",
+      "bytes": 52182,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/88/88a26905768e3d8667a1a53d9945b88d389f89d1a159ac852ee1416f9884d620.mp3"
+    },
+    {
+      "path": "audio/54/54c80a19fb2896e31fd75fa52d9dcf9f2fcb89f7f217d579a441b71011f33d7f.mp3",
+      "sha256": "54c80a19fb2896e31fd75fa52d9dcf9f2fcb89f7f217d579a441b71011f33d7f",
+      "bytes": 162868,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/54/54c80a19fb2896e31fd75fa52d9dcf9f2fcb89f7f217d579a441b71011f33d7f.mp3"
+    },
+    {
+      "path": "audio/df/df465a09cc32091d73ea0441dfefaab791829a1371d72a8d01f70276161e19e4.mp3",
+      "sha256": "df465a09cc32091d73ea0441dfefaab791829a1371d72a8d01f70276161e19e4",
+      "bytes": 27244,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/df/df465a09cc32091d73ea0441dfefaab791829a1371d72a8d01f70276161e19e4.mp3"
+    },
+    {
+      "path": "audio/c7/c70337ce43a6e5baf1f46815fcdb58d7e12c13d94189cdd08d1f9668995973dd.mp3",
+      "sha256": "c70337ce43a6e5baf1f46815fcdb58d7e12c13d94189cdd08d1f9668995973dd",
+      "bytes": 95756,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/c7/c70337ce43a6e5baf1f46815fcdb58d7e12c13d94189cdd08d1f9668995973dd.mp3"
+    },
+    {
+      "path": "audio/c5/c5c797124446a5c1cc457f1fb52f01ee814232a6aa2a6897971e4bced26549c6.mp3",
+      "sha256": "c5c797124446a5c1cc457f1fb52f01ee814232a6aa2a6897971e4bced26549c6",
+      "bytes": 41004,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/c5/c5c797124446a5c1cc457f1fb52f01ee814232a6aa2a6897971e4bced26549c6.mp3"
+    },
+    {
+      "path": "audio/92/92822e5e11c90279977595971e5bf1e0efdaa57b14e1326c50eafff27ab3cf61.mp3",
+      "sha256": "92822e5e11c90279977595971e5bf1e0efdaa57b14e1326c50eafff27ab3cf61",
+      "bytes": 39592,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/92/92822e5e11c90279977595971e5bf1e0efdaa57b14e1326c50eafff27ab3cf61.mp3"
+    },
+    {
+      "path": "audio/d1/d1d297ad3f5b4f15d65ab5ab43f4269c06e88106cfc5d6480611d4f8d8c839d2.mp3",
+      "sha256": "d1d297ad3f5b4f15d65ab5ab43f4269c06e88106cfc5d6480611d4f8d8c839d2",
+      "bytes": 14492,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/d1/d1d297ad3f5b4f15d65ab5ab43f4269c06e88106cfc5d6480611d4f8d8c839d2.mp3"
+    },
+    {
+      "path": "audio/3a/3a64c67b167c0bb69436635842c90ce6cf8549b253529ff17102df36f60761a9.mp3",
+      "sha256": "3a64c67b167c0bb69436635842c90ce6cf8549b253529ff17102df36f60761a9",
+      "bytes": 10911,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/3a/3a64c67b167c0bb69436635842c90ce6cf8549b253529ff17102df36f60761a9.mp3"
+    },
+    {
+      "path": "audio/72/721e533e4b355479256bd808c73c892572db8374a68921c440fb07dc4591ef99.mp3",
+      "sha256": "721e533e4b355479256bd808c73c892572db8374a68921c440fb07dc4591ef99",
+      "bytes": 26163,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/72/721e533e4b355479256bd808c73c892572db8374a68921c440fb07dc4591ef99.mp3"
+    },
+    {
+      "path": "audio/f1/f1f4e0ef08254ce7e7db18065dbf4c959342d44a347370ddfa108e4e1246f810.mp3",
+      "sha256": "f1f4e0ef08254ce7e7db18065dbf4c959342d44a347370ddfa108e4e1246f810",
+      "bytes": 15148,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/f1/f1f4e0ef08254ce7e7db18065dbf4c959342d44a347370ddfa108e4e1246f810.mp3"
+    },
+    {
+      "path": "audio/9a/9acc6899ba88bd4ccc9232b37c8866795d32e4a07d1403023006c7a97c5e1e19.mp3",
+      "sha256": "9acc6899ba88bd4ccc9232b37c8866795d32e4a07d1403023006c7a97c5e1e19",
+      "bytes": 14555,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/9a/9acc6899ba88bd4ccc9232b37c8866795d32e4a07d1403023006c7a97c5e1e19.mp3"
+    },
+    {
+      "path": "audio/b1/b10604fc6e957977f8dc74cbe75cc45b4533648a5514f786fcdaa887a87e94f3.mp3",
+      "sha256": "b10604fc6e957977f8dc74cbe75cc45b4533648a5514f786fcdaa887a87e94f3",
+      "bytes": 78334,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/b1/b10604fc6e957977f8dc74cbe75cc45b4533648a5514f786fcdaa887a87e94f3.mp3"
+    },
+    {
+      "path": "audio/26/269298422b9052e06c23050d595c9fcdf209b91dc5ec07cab8385ff488af5f33.mp3",
+      "sha256": "269298422b9052e06c23050d595c9fcdf209b91dc5ec07cab8385ff488af5f33",
+      "bytes": 166228,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/26/269298422b9052e06c23050d595c9fcdf209b91dc5ec07cab8385ff488af5f33.mp3"
+    },
+    {
+      "path": "audio/b6/b6a2297a149ce9ad6ca7d0ddec2bd6f8fd88e8c53d77be7f90fc3ee29e2e49ba.mp3",
+      "sha256": "b6a2297a149ce9ad6ca7d0ddec2bd6f8fd88e8c53d77be7f90fc3ee29e2e49ba",
+      "bytes": 16855,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/b6/b6a2297a149ce9ad6ca7d0ddec2bd6f8fd88e8c53d77be7f90fc3ee29e2e49ba.mp3"
+    },
+    {
+      "path": "audio/82/8298afa77096f0f4a220578aaca6535f1a6d1b0f4f284b3d3673cf1dd9266801.mp3",
+      "sha256": "8298afa77096f0f4a220578aaca6535f1a6d1b0f4f284b3d3673cf1dd9266801",
+      "bytes": 38338,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/82/8298afa77096f0f4a220578aaca6535f1a6d1b0f4f284b3d3673cf1dd9266801.mp3"
+    },
+    {
+      "path": "audio/b2/b2eafc5a8bf41a8e50fa1df6bbb16f177ea75a77caac559d6e17edb6e848b10f.mp3",
+      "sha256": "b2eafc5a8bf41a8e50fa1df6bbb16f177ea75a77caac559d6e17edb6e848b10f",
+      "bytes": 18462,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/b2/b2eafc5a8bf41a8e50fa1df6bbb16f177ea75a77caac559d6e17edb6e848b10f.mp3"
+    },
+    {
+      "path": "audio/c5/c56ce8e7e5f65e131ad2e82c13605ce4467e775d9d9cbea71fd5a7e28cdbcf2b.mp3",
+      "sha256": "c56ce8e7e5f65e131ad2e82c13605ce4467e775d9d9cbea71fd5a7e28cdbcf2b",
+      "bytes": 11953,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/c5/c56ce8e7e5f65e131ad2e82c13605ce4467e775d9d9cbea71fd5a7e28cdbcf2b.mp3"
+    },
+    {
+      "path": "audio/f9/f9f842b42890fa3ab3da9c46e735ba07de15ac145809bdcd7963b5f71b5f4ccd.mp3",
+      "sha256": "f9f842b42890fa3ab3da9c46e735ba07de15ac145809bdcd7963b5f71b5f4ccd",
+      "bytes": 44347,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/f9/f9f842b42890fa3ab3da9c46e735ba07de15ac145809bdcd7963b5f71b5f4ccd.mp3"
+    },
+    {
+      "path": "audio/b8/b8d40dbc418126477dc09c778d2b1df4a4dbc13e55bb1c0ea6c72102e4b62ab8.mp3",
+      "sha256": "b8d40dbc418126477dc09c778d2b1df4a4dbc13e55bb1c0ea6c72102e4b62ab8",
+      "bytes": 19397,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/b8/b8d40dbc418126477dc09c778d2b1df4a4dbc13e55bb1c0ea6c72102e4b62ab8.mp3"
+    },
+    {
+      "path": "audio/29/298d7404184e291c89d6d2b769a2bd803562206d5c778a3bf9f4c830cfcab4d7.mp3",
+      "sha256": "298d7404184e291c89d6d2b769a2bd803562206d5c778a3bf9f4c830cfcab4d7",
+      "bytes": 6105,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/29/298d7404184e291c89d6d2b769a2bd803562206d5c778a3bf9f4c830cfcab4d7.mp3"
+    },
+    {
+      "path": "audio/ab/ab6caf643745c8fb5ea6af407b6316d3ddead2391b7188352d097bc2b3df3032.mp3",
+      "sha256": "ab6caf643745c8fb5ea6af407b6316d3ddead2391b7188352d097bc2b3df3032",
+      "bytes": 21408,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/ab/ab6caf643745c8fb5ea6af407b6316d3ddead2391b7188352d097bc2b3df3032.mp3"
+    },
+    {
+      "path": "audio/62/6271f32620ebbd0cac3e5afcba8f64fc7a0326c13b1ba7a6ef8e48654817f3d6.mp3",
+      "sha256": "6271f32620ebbd0cac3e5afcba8f64fc7a0326c13b1ba7a6ef8e48654817f3d6",
+      "bytes": 24326,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/62/6271f32620ebbd0cac3e5afcba8f64fc7a0326c13b1ba7a6ef8e48654817f3d6.mp3"
+    },
+    {
+      "path": "audio/7e/7ece0d0d43639bb9060de2370dca3db39255ed9e8660f500dd172c4f2599fd5e.mp3",
+      "sha256": "7ece0d0d43639bb9060de2370dca3db39255ed9e8660f500dd172c4f2599fd5e",
+      "bytes": 16302,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/7e/7ece0d0d43639bb9060de2370dca3db39255ed9e8660f500dd172c4f2599fd5e.mp3"
+    },
+    {
+      "path": "audio/52/523a69dc961d153e0d48e74ae1e4f980a97aa44787d3c5d86a3a1d5fafb383da.mp3",
+      "sha256": "523a69dc961d153e0d48e74ae1e4f980a97aa44787d3c5d86a3a1d5fafb383da",
+      "bytes": 17180,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/52/523a69dc961d153e0d48e74ae1e4f980a97aa44787d3c5d86a3a1d5fafb383da.mp3"
+    },
+    {
+      "path": "audio/17/172b4f6af86b0869dc8ee88613321a5c34e93a807ec64cc2b84785e9f9a544c0.mp3",
+      "sha256": "172b4f6af86b0869dc8ee88613321a5c34e93a807ec64cc2b84785e9f9a544c0",
+      "bytes": 20999,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/17/172b4f6af86b0869dc8ee88613321a5c34e93a807ec64cc2b84785e9f9a544c0.mp3"
+    },
+    {
+      "path": "audio/b6/b6e33a052675594ddc25736f8ff8466868941890f05ae1a9d9995fc19d7f5931.mp3",
+      "sha256": "b6e33a052675594ddc25736f8ff8466868941890f05ae1a9d9995fc19d7f5931",
+      "bytes": 47295,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/b6/b6e33a052675594ddc25736f8ff8466868941890f05ae1a9d9995fc19d7f5931.mp3"
+    },
+    {
+      "path": "audio/df/dfd9929c74130e1af5050351310fae53ec25cbe3fff5a34e0a913f643dad5b21.mp3",
+      "sha256": "dfd9929c74130e1af5050351310fae53ec25cbe3fff5a34e0a913f643dad5b21",
+      "bytes": 14030,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/df/dfd9929c74130e1af5050351310fae53ec25cbe3fff5a34e0a913f643dad5b21.mp3"
+    },
+    {
+      "path": "audio/42/42c56346fc00c4f132ab59a81a277fe6f2143d04d05b1ef2982adc8498acd07d.mp3",
+      "sha256": "42c56346fc00c4f132ab59a81a277fe6f2143d04d05b1ef2982adc8498acd07d",
+      "bytes": 51035,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/42/42c56346fc00c4f132ab59a81a277fe6f2143d04d05b1ef2982adc8498acd07d.mp3"
+    },
+    {
+      "path": "audio/a4/a487c887557ec9a17a23c87773357e94311a4a99ef0e7b6eb5a8e12d00b277f6.mp3",
+      "sha256": "a487c887557ec9a17a23c87773357e94311a4a99ef0e7b6eb5a8e12d00b277f6",
+      "bytes": 48527,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a4/a487c887557ec9a17a23c87773357e94311a4a99ef0e7b6eb5a8e12d00b277f6.mp3"
+    },
+    {
+      "path": "audio/3a/3a845a8e025964fde3a57912c0e308b52629875ecde9fd2a43f14b4f62617151.mp3",
+      "sha256": "3a845a8e025964fde3a57912c0e308b52629875ecde9fd2a43f14b4f62617151",
+      "bytes": 37729,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/3a/3a845a8e025964fde3a57912c0e308b52629875ecde9fd2a43f14b4f62617151.mp3"
+    },
+    {
+      "path": "audio/b8/b80619ea1942d1aa04ad093a952cbd9ae6bdf31f97c6ac5df845090b8bd9f8a3.mp3",
+      "sha256": "b80619ea1942d1aa04ad093a952cbd9ae6bdf31f97c6ac5df845090b8bd9f8a3",
+      "bytes": 24388,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/b8/b80619ea1942d1aa04ad093a952cbd9ae6bdf31f97c6ac5df845090b8bd9f8a3.mp3"
+    },
+    {
+      "path": "audio/86/86646b060392acdb84cb9d782d5a2f78ed5501c75ee92e759ba742425d70cb1b.mp3",
+      "sha256": "86646b060392acdb84cb9d782d5a2f78ed5501c75ee92e759ba742425d70cb1b",
+      "bytes": 27261,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/86/86646b060392acdb84cb9d782d5a2f78ed5501c75ee92e759ba742425d70cb1b.mp3"
+    },
+    {
+      "path": "audio/30/304c2fb7a19d7a46a1e7fea5072c984911f222dda67c51a09e52ead598de601d.mp3",
+      "sha256": "304c2fb7a19d7a46a1e7fea5072c984911f222dda67c51a09e52ead598de601d",
+      "bytes": 29908,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/30/304c2fb7a19d7a46a1e7fea5072c984911f222dda67c51a09e52ead598de601d.mp3"
+    },
+    {
+      "path": "audio/00/002be3db8645f83e44d09814ae4f5517b1b64ab49eed12bf2b4182e66246d656.mp3",
+      "sha256": "002be3db8645f83e44d09814ae4f5517b1b64ab49eed12bf2b4182e66246d656",
+      "bytes": 24829,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/00/002be3db8645f83e44d09814ae4f5517b1b64ab49eed12bf2b4182e66246d656.mp3"
+    },
+    {
+      "path": "audio/cd/cd1838eede8bb757368d21caaae082500a419da14f237455dfc840b35becc36d.mp3",
+      "sha256": "cd1838eede8bb757368d21caaae082500a419da14f237455dfc840b35becc36d",
+      "bytes": 193108,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/cd/cd1838eede8bb757368d21caaae082500a419da14f237455dfc840b35becc36d.mp3"
+    },
+    {
+      "path": "audio/a2/a2444e8c060eff7d703e54871cf4dc64ca411b01ae6030aad00875da17d726c4.mp3",
+      "sha256": "a2444e8c060eff7d703e54871cf4dc64ca411b01ae6030aad00875da17d726c4",
+      "bytes": 37279,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a2/a2444e8c060eff7d703e54871cf4dc64ca411b01ae6030aad00875da17d726c4.mp3"
+    },
+    {
+      "path": "audio/a8/a8000787f3ab80ea39943cb3e120a2076c1e781237d35e886d36ea6ff088b604.mp3",
+      "sha256": "a8000787f3ab80ea39943cb3e120a2076c1e781237d35e886d36ea6ff088b604",
+      "bytes": 81546,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a8/a8000787f3ab80ea39943cb3e120a2076c1e781237d35e886d36ea6ff088b604.mp3"
+    },
+    {
+      "path": "audio/8f/8fcf0e98fc5b06b714d21193e414dc70a4eb243cbdc08cb95a81e4b0b6d16d74.mp3",
+      "sha256": "8fcf0e98fc5b06b714d21193e414dc70a4eb243cbdc08cb95a81e4b0b6d16d74",
+      "bytes": 9449,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/8f/8fcf0e98fc5b06b714d21193e414dc70a4eb243cbdc08cb95a81e4b0b6d16d74.mp3"
+    },
+    {
+      "path": "audio/a5/a54897b5b5b3d932272c835ce7632bb6cc748f92afe17f4ea8ea9e9bfb6a4717.mp3",
+      "sha256": "a54897b5b5b3d932272c835ce7632bb6cc748f92afe17f4ea8ea9e9bfb6a4717",
+      "bytes": 17073,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a5/a54897b5b5b3d932272c835ce7632bb6cc748f92afe17f4ea8ea9e9bfb6a4717.mp3"
+    },
+    {
+      "path": "audio/b0/b01cce158c68d1c4d586ba1e28e20d64e81f025a67a78525b96e4501e89fade8.mp3",
+      "sha256": "b01cce158c68d1c4d586ba1e28e20d64e81f025a67a78525b96e4501e89fade8",
+      "bytes": 19062,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/b0/b01cce158c68d1c4d586ba1e28e20d64e81f025a67a78525b96e4501e89fade8.mp3"
+    },
+    {
+      "path": "audio/e2/e260e4bc006217719bd6bbe2dd33ed44cc936328f14f1b6655377a3d36326f73.mp3",
+      "sha256": "e260e4bc006217719bd6bbe2dd33ed44cc936328f14f1b6655377a3d36326f73",
+      "bytes": 117268,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/e2/e260e4bc006217719bd6bbe2dd33ed44cc936328f14f1b6655377a3d36326f73.mp3"
+    },
+    {
+      "path": "audio/63/63c2a293152b47c6487086d3303843f9562c9eb6c190418bc45c87c9013c6a5c.mp3",
+      "sha256": "63c2a293152b47c6487086d3303843f9562c9eb6c190418bc45c87c9013c6a5c",
+      "bytes": 69843,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/63/63c2a293152b47c6487086d3303843f9562c9eb6c190418bc45c87c9013c6a5c.mp3"
+    },
+    {
+      "path": "audio/4f/4f4bd29c885ec789c9d10478c86ec8538091edb6c87ab9596550e702d5787a5e.mp3",
+      "sha256": "4f4bd29c885ec789c9d10478c86ec8538091edb6c87ab9596550e702d5787a5e",
+      "bytes": 35452,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/4f/4f4bd29c885ec789c9d10478c86ec8538091edb6c87ab9596550e702d5787a5e.mp3"
+    },
+    {
+      "path": "audio/e8/e80bae4eac8860a468c518a147ed617ae9740e6e1f74bdee473134c1c9d8c9bf.mp3",
+      "sha256": "e80bae4eac8860a468c518a147ed617ae9740e6e1f74bdee473134c1c9d8c9bf",
+      "bytes": 23335,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/e8/e80bae4eac8860a468c518a147ed617ae9740e6e1f74bdee473134c1c9d8c9bf.mp3"
+    },
+    {
+      "path": "audio/1e/1eb611f75891955c92b1db57381a06631f2341f06753ce60af464079df46dae2.mp3",
+      "sha256": "1eb611f75891955c92b1db57381a06631f2341f06753ce60af464079df46dae2",
+      "bytes": 21778,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/1e/1eb611f75891955c92b1db57381a06631f2341f06753ce60af464079df46dae2.mp3"
+    },
+    {
+      "path": "audio/4e/4ea1ea7f41731ba6d2dcb61f69d5427379c65f7a3add7032522fe3e1ed3a7163.mp3",
+      "sha256": "4ea1ea7f41731ba6d2dcb61f69d5427379c65f7a3add7032522fe3e1ed3a7163",
+      "bytes": 49781,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/4e/4ea1ea7f41731ba6d2dcb61f69d5427379c65f7a3add7032522fe3e1ed3a7163.mp3"
+    },
+    {
+      "path": "audio/a2/a2da4a75c8408eef3d71418087a1fddd32be7afcc133babd1de009f8bd793a2a.mp3",
+      "sha256": "a2da4a75c8408eef3d71418087a1fddd32be7afcc133babd1de009f8bd793a2a",
+      "bytes": 16029,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a2/a2da4a75c8408eef3d71418087a1fddd32be7afcc133babd1de009f8bd793a2a.mp3"
+    },
+    {
+      "path": "audio/78/782fef4f317742e5d90957bdc1d253365c935f8fcff8d912fc63b6ab0834063a.mp3",
+      "sha256": "782fef4f317742e5d90957bdc1d253365c935f8fcff8d912fc63b6ab0834063a",
+      "bytes": 19686,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/78/782fef4f317742e5d90957bdc1d253365c935f8fcff8d912fc63b6ab0834063a.mp3"
+    },
+    {
+      "path": "audio/20/20513051eb18f7da370079238ba3199aa1870af994220cbbe9107f2e3ef8132a.mp3",
+      "sha256": "20513051eb18f7da370079238ba3199aa1870af994220cbbe9107f2e3ef8132a",
+      "bytes": 19180,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/20/20513051eb18f7da370079238ba3199aa1870af994220cbbe9107f2e3ef8132a.mp3"
+    },
+    {
+      "path": "audio/82/8211735845c93007172947f08bf14be0669e6b99897cda6c75939a999bf146b9.mp3",
+      "sha256": "8211735845c93007172947f08bf14be0669e6b99897cda6c75939a999bf146b9",
+      "bytes": 54378,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/82/8211735845c93007172947f08bf14be0669e6b99897cda6c75939a999bf146b9.mp3"
+    },
+    {
+      "path": "audio/dd/dd764c9fca88781d111299249c43713ef1cb08c60618172a6b6f63e236329b69.mp3",
+      "sha256": "dd764c9fca88781d111299249c43713ef1cb08c60618172a6b6f63e236329b69",
+      "bytes": 63991,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/dd/dd764c9fca88781d111299249c43713ef1cb08c60618172a6b6f63e236329b69.mp3"
+    },
+    {
+      "path": "audio/3a/3a234717ecf9ae1d3e0b27a3d4fb175e0ef0494f564aecedf79d1a5d646ef037.mp3",
+      "sha256": "3a234717ecf9ae1d3e0b27a3d4fb175e0ef0494f564aecedf79d1a5d646ef037",
+      "bytes": 51453,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/3a/3a234717ecf9ae1d3e0b27a3d4fb175e0ef0494f564aecedf79d1a5d646ef037.mp3"
+    },
+    {
+      "path": "audio/ab/abb09edbd298250d4bca3690e2ead474bc11186169439666506cbb0b0e747934.mp3",
+      "sha256": "abb09edbd298250d4bca3690e2ead474bc11186169439666506cbb0b0e747934",
+      "bytes": 7986,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/ab/abb09edbd298250d4bca3690e2ead474bc11186169439666506cbb0b0e747934.mp3"
+    },
+    {
+      "path": "audio/6c/6c362e4ac63b8208f43026459d0931bf63b669135a2c81a7f9dae3e1f81c880d.mp3",
+      "sha256": "6c362e4ac63b8208f43026459d0931bf63b669135a2c81a7f9dae3e1f81c880d",
+      "bytes": 50200,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/6c/6c362e4ac63b8208f43026459d0931bf63b669135a2c81a7f9dae3e1f81c880d.mp3"
+    },
+    {
+      "path": "audio/bf/bffc4b71a3a4683d7402bb9b1ead8a443508e7c3c22a4590e84ba4da5fa65f11.mp3",
+      "sha256": "bffc4b71a3a4683d7402bb9b1ead8a443508e7c3c22a4590e84ba4da5fa65f11",
+      "bytes": 30137,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/bf/bffc4b71a3a4683d7402bb9b1ead8a443508e7c3c22a4590e84ba4da5fa65f11.mp3"
+    },
+    {
+      "path": "audio/6a/6a9ff0367c643200d55be172fdcaeff90de602cd4f5a65e0acd7befe7030d7f7.mp3",
+      "sha256": "6a9ff0367c643200d55be172fdcaeff90de602cd4f5a65e0acd7befe7030d7f7",
+      "bytes": 23449,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/6a/6a9ff0367c643200d55be172fdcaeff90de602cd4f5a65e0acd7befe7030d7f7.mp3"
+    },
+    {
+      "path": "audio/f3/f3d4cac4384ccea5b0043b65686b2de84f95464c465928870830e8252d202e82.mp3",
+      "sha256": "f3d4cac4384ccea5b0043b65686b2de84f95464c465928870830e8252d202e82",
+      "bytes": 15509,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/f3/f3d4cac4384ccea5b0043b65686b2de84f95464c465928870830e8252d202e82.mp3"
+    },
+    {
+      "path": "audio/15/155d0ff24d115910f9f087688152e1f67585827d8349964dc821fa3a31b66240.mp3",
+      "sha256": "155d0ff24d115910f9f087688152e1f67585827d8349964dc821fa3a31b66240",
+      "bytes": 23031,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/15/155d0ff24d115910f9f087688152e1f67585827d8349964dc821fa3a31b66240.mp3"
+    },
+    {
+      "path": "audio/0a/0ac5d27b1f803861c2e8e309fd651bdecf9a88bd1254da482bf1ce88950f8cec.mp3",
+      "sha256": "0ac5d27b1f803861c2e8e309fd651bdecf9a88bd1254da482bf1ce88950f8cec",
+      "bytes": 26204,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/0a/0ac5d27b1f803861c2e8e309fd651bdecf9a88bd1254da482bf1ce88950f8cec.mp3"
+    },
+    {
+      "path": "audio/a7/a70b7559223cea0795a48c43a1da9b54089d10f499a7f56e26e078fd4f51d441.mp3",
+      "sha256": "a70b7559223cea0795a48c43a1da9b54089d10f499a7f56e26e078fd4f51d441",
+      "bytes": 48945,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a7/a70b7559223cea0795a48c43a1da9b54089d10f499a7f56e26e078fd4f51d441.mp3"
+    },
+    {
+      "path": "audio/53/531f06c12d735ce2236fcfd9a7e673d834422b016f488c319c063149e0dc3c2e.mp3",
+      "sha256": "531f06c12d735ce2236fcfd9a7e673d834422b016f488c319c063149e0dc3c2e",
+      "bytes": 43832,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/53/531f06c12d735ce2236fcfd9a7e673d834422b016f488c319c063149e0dc3c2e.mp3"
+    },
+    {
+      "path": "audio/2b/2b11ec904cedfbe74afd7f65310afa5dde503b137738f0ae6b3c16e57c882ad1.mp3",
+      "sha256": "2b11ec904cedfbe74afd7f65310afa5dde503b137738f0ae6b3c16e57c882ad1",
+      "bytes": 18725,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/2b/2b11ec904cedfbe74afd7f65310afa5dde503b137738f0ae6b3c16e57c882ad1.mp3"
+    },
+    {
+      "path": "audio/8d/8df37bdbff06927b5d5168857b1788bc38347323eaadf02c701b191df057ce1c.mp3",
+      "sha256": "8df37bdbff06927b5d5168857b1788bc38347323eaadf02c701b191df057ce1c",
+      "bytes": 57745,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/8d/8df37bdbff06927b5d5168857b1788bc38347323eaadf02c701b191df057ce1c.mp3"
+    },
+    {
+      "path": "audio/05/05fc37e8f960ad92b3fd3bede2d8347d59ceccda0243bd71e5df11e344e056ea.mp3",
+      "sha256": "05fc37e8f960ad92b3fd3bede2d8347d59ceccda0243bd71e5df11e344e056ea",
+      "bytes": 30137,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/05/05fc37e8f960ad92b3fd3bede2d8347d59ceccda0243bd71e5df11e344e056ea.mp3"
+    },
+    {
+      "path": "audio/a2/a22bde43b9ba4aeb6600591bec96ba0a50235bd1fa0c4067aaf9bdb51969171c.mp3",
+      "sha256": "a22bde43b9ba4aeb6600591bec96ba0a50235bd1fa0c4067aaf9bdb51969171c",
+      "bytes": 58508,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a2/a22bde43b9ba4aeb6600591bec96ba0a50235bd1fa0c4067aaf9bdb51969171c.mp3"
+    },
+    {
+      "path": "audio/c3/c35f74b927ace841e8ad587fa9b5aff49f41a17b1a16ca5ffd16fbea72867fd7.mp3",
+      "sha256": "c35f74b927ace841e8ad587fa9b5aff49f41a17b1a16ca5ffd16fbea72867fd7",
+      "bytes": 72768,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/c3/c35f74b927ace841e8ad587fa9b5aff49f41a17b1a16ca5ffd16fbea72867fd7.mp3"
+    },
+    {
+      "path": "audio/7e/7e3849266399aac308bb27cfb52f8409ff5a6b9bfb98189935c445ad61816625.mp3",
+      "sha256": "7e3849266399aac308bb27cfb52f8409ff5a6b9bfb98189935c445ad61816625",
+      "bytes": 30138,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/7e/7e3849266399aac308bb27cfb52f8409ff5a6b9bfb98189935c445ad61816625.mp3"
+    },
+    {
+      "path": "audio/aa/aa797e5ef2c5bbe3eb38056f5793365ec1b04dd47386028d06a25a59f7230829.mp3",
+      "sha256": "aa797e5ef2c5bbe3eb38056f5793365ec1b04dd47386028d06a25a59f7230829",
+      "bytes": 20770,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/aa/aa797e5ef2c5bbe3eb38056f5793365ec1b04dd47386028d06a25a59f7230829.mp3"
+    },
+    {
+      "path": "audio/f6/f6b683659f604ee54580bf4d827556c94873d2ae5392606266364dd7baee77c5.mp3",
+      "sha256": "f6b683659f604ee54580bf4d827556c94873d2ae5392606266364dd7baee77c5",
+      "bytes": 18607,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/f6/f6b683659f604ee54580bf4d827556c94873d2ae5392606266364dd7baee77c5.mp3"
+    },
+    {
+      "path": "audio/55/552b8c193fd879f8e1d1e9b861fadaf69289d7615c12e2d3875f9432d355ef20.mp3",
+      "sha256": "552b8c193fd879f8e1d1e9b861fadaf69289d7615c12e2d3875f9432d355ef20",
+      "bytes": 65720,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/55/552b8c193fd879f8e1d1e9b861fadaf69289d7615c12e2d3875f9432d355ef20.mp3"
+    },
+    {
+      "path": "audio/9d/9d90916b44097eae80c75de19a8454000be2f657e68a3be41a91ac1a0a98dcbb.mp3",
+      "sha256": "9d90916b44097eae80c75de19a8454000be2f657e68a3be41a91ac1a0a98dcbb",
+      "bytes": 21359,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/9d/9d90916b44097eae80c75de19a8454000be2f657e68a3be41a91ac1a0a98dcbb.mp3"
+    },
+    {
+      "path": "audio/94/94ee60b9b0fa118cb5dbb574a351cf5bcb55caed70175948fd28339adb141f4c.mp3",
+      "sha256": "94ee60b9b0fa118cb5dbb574a351cf5bcb55caed70175948fd28339adb141f4c",
+      "bytes": 18225,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/94/94ee60b9b0fa118cb5dbb574a351cf5bcb55caed70175948fd28339adb141f4c.mp3"
+    },
+    {
+      "path": "audio/64/64830cbf238549b70dd0cd27cefaa52aa586765ce277e15046b1659b8d5026f9.mp3",
+      "sha256": "64830cbf238549b70dd0cd27cefaa52aa586765ce277e15046b1659b8d5026f9",
+      "bytes": 16762,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/64/64830cbf238549b70dd0cd27cefaa52aa586765ce277e15046b1659b8d5026f9.mp3"
+    },
+    {
+      "path": "audio/af/afd0fd297876a4d3395303faff0b922d6ad3ab3a359443758d6233e9741ba976.mp3",
+      "sha256": "afd0fd297876a4d3395303faff0b922d6ad3ab3a359443758d6233e9741ba976",
+      "bytes": 37242,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/af/afd0fd297876a4d3395303faff0b922d6ad3ab3a359443758d6233e9741ba976.mp3"
+    },
+    {
+      "path": "audio/71/71c9e1d87acc57f9f55e81094b7f77fb75d6ef34536523d1b9337e51faeda65d.mp3",
+      "sha256": "71c9e1d87acc57f9f55e81094b7f77fb75d6ef34536523d1b9337e51faeda65d",
+      "bytes": 21671,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/71/71c9e1d87acc57f9f55e81094b7f77fb75d6ef34536523d1b9337e51faeda65d.mp3"
+    },
+    {
+      "path": "audio/8d/8d70135fdc060a81fa566840a4b612bdef59f01550c68c39c9a068e8c3890f2d.mp3",
+      "sha256": "8d70135fdc060a81fa566840a4b612bdef59f01550c68c39c9a068e8c3890f2d",
+      "bytes": 240148,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/8d/8d70135fdc060a81fa566840a4b612bdef59f01550c68c39c9a068e8c3890f2d.mp3"
+    },
+    {
+      "path": "audio/bd/bd100d478a446ee0764fd69d0046b6e1646bd7c5c4a96d2dc2f983f3e1cb0f79.mp3",
+      "sha256": "bd100d478a446ee0764fd69d0046b6e1646bd7c5c4a96d2dc2f983f3e1cb0f79",
+      "bytes": 8613,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/bd/bd100d478a446ee0764fd69d0046b6e1646bd7c5c4a96d2dc2f983f3e1cb0f79.mp3"
+    },
+    {
+      "path": "audio/a5/a5af85d495ef701d409bf4f8325ba0992513d9cc881550072a0f7b340527bae8.mp3",
+      "sha256": "a5af85d495ef701d409bf4f8325ba0992513d9cc881550072a0f7b340527bae8",
+      "bytes": 7986,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a5/a5af85d495ef701d409bf4f8325ba0992513d9cc881550072a0f7b340527bae8.mp3"
+    },
+    {
+      "path": "audio/fe/febee10ef5268bb39bbf7898d07ca27ccbcb2624a6524bdc6467dbe5b696397d.mp3",
+      "sha256": "febee10ef5268bb39bbf7898d07ca27ccbcb2624a6524bdc6467dbe5b696397d",
+      "bytes": 29511,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/fe/febee10ef5268bb39bbf7898d07ca27ccbcb2624a6524bdc6467dbe5b696397d.mp3"
+    },
+    {
+      "path": "audio/87/87f3bd84106b6692b4d4625db30201a9357f48d1729e66f0eadad281c0744679.mp3",
+      "sha256": "87f3bd84106b6692b4d4625db30201a9357f48d1729e66f0eadad281c0744679",
+      "bytes": 15955,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/87/87f3bd84106b6692b4d4625db30201a9357f48d1729e66f0eadad281c0744679.mp3"
+    },
+    {
+      "path": "audio/f1/f12462804f4e995d0f97986452ec71b22b0db82b7ec6b82e0bf118faa06636af.mp3",
+      "sha256": "f12462804f4e995d0f97986452ec71b22b0db82b7ec6b82e0bf118faa06636af",
+      "bytes": 14957,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/f1/f12462804f4e995d0f97986452ec71b22b0db82b7ec6b82e0bf118faa06636af.mp3"
+    },
+    {
+      "path": "audio/55/5514ce4d60d8494fc3fc9930ba7582c7131cd209a2641e7f4273a23105718b36.mp3",
+      "sha256": "5514ce4d60d8494fc3fc9930ba7582c7131cd209a2641e7f4273a23105718b36",
+      "bytes": 30973,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/55/5514ce4d60d8494fc3fc9930ba7582c7131cd209a2641e7f4273a23105718b36.mp3"
+    },
+    {
+      "path": "audio/eb/eb168f3762a8862db8cfecf4af58845513cb32846846a5f6abb84a85bbf80395.mp3",
+      "sha256": "eb168f3762a8862db8cfecf4af58845513cb32846846a5f6abb84a85bbf80395",
+      "bytes": 21633,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/eb/eb168f3762a8862db8cfecf4af58845513cb32846846a5f6abb84a85bbf80395.mp3"
+    },
+    {
+      "path": "audio/e2/e2b4bab6fef12776b01dc446aff693f7bee204fc0d6144c5eed4f3591da60e16.mp3",
+      "sha256": "e2b4bab6fef12776b01dc446aff693f7bee204fc0d6144c5eed4f3591da60e16",
+      "bytes": 47483,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/e2/e2b4bab6fef12776b01dc446aff693f7bee204fc0d6144c5eed4f3591da60e16.mp3"
+    },
+    {
+      "path": "audio/76/767ae53476c6b627023eed605e3fc077a906b11067025aa9793fa1596928c299.mp3",
+      "sha256": "767ae53476c6b627023eed605e3fc077a906b11067025aa9793fa1596928c299",
+      "bytes": 94084,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/76/767ae53476c6b627023eed605e3fc077a906b11067025aa9793fa1596928c299.mp3"
+    },
+    {
+      "path": "audio/d9/d9d26ea4979a60c4983d074f61f044442421a569abb919810615cffdf8eb6bb2.mp3",
+      "sha256": "d9d26ea4979a60c4983d074f61f044442421a569abb919810615cffdf8eb6bb2",
+      "bytes": 43093,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/d9/d9d26ea4979a60c4983d074f61f044442421a569abb919810615cffdf8eb6bb2.mp3"
+    },
+    {
+      "path": "audio/af/afb005c9b61ee65f653b46aa67e7c0b261125a76d15d192d3f6c659514118721.mp3",
+      "sha256": "afb005c9b61ee65f653b46aa67e7c0b261125a76d15d192d3f6c659514118721",
+      "bytes": 62920,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/af/afb005c9b61ee65f653b46aa67e7c0b261125a76d15d192d3f6c659514118721.mp3"
+    }
+  ],
+  "origins": {
+    "mingwuyan/yinpin/bdyinxiao/下课铃响音效.mp3": {
+      "path": "audio/e3/e33334b5cb4dd77bee8202dffe92bf7de23936a9bc9344146c34982ad62f8943.mp3",
+      "sha256": "e33334b5cb4dd77bee8202dffe92bf7de23936a9bc9344146c34982ad62f8943",
+      "bytes": 58558,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/e3/e33334b5cb4dd77bee8202dffe92bf7de23936a9bc9344146c34982ad62f8943.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/中狂笑音效.mp3": {
+      "path": "audio/20/2058ffff2ddc3daa28ace3dbe1ad59446ead2b9be806d9a0705ab1870ef32ce0.mp3",
+      "sha256": "2058ffff2ddc3daa28ace3dbe1ad59446ead2b9be806d9a0705ab1870ef32ce0",
+      "bytes": 40586,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/20/2058ffff2ddc3daa28ace3dbe1ad59446ead2b9be806d9a0705ab1870ef32ce0.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/人吸涕音效.mp3": {
+      "path": "audio/c5/c52e8bc6f010e918283036a535819f0370dfbb79abd22dbd55425328f1fe68d2.mp3",
+      "sha256": "c52e8bc6f010e918283036a535819f0370dfbb79abd22dbd55425328f1fe68d2",
+      "bytes": 26830,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/c5/c52e8bc6f010e918283036a535819f0370dfbb79abd22dbd55425328f1fe68d2.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/人喊杀声音效.mp3": {
+      "path": "audio/af/afd6b2ff6fa33eb6e53815a2ad2864dbb20ae66d53a58fc825b767efa4804e49.mp3",
+      "sha256": "afd6b2ff6fa33eb6e53815a2ad2864dbb20ae66d53a58fc825b767efa4804e49",
+      "bytes": 123342,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/af/afd6b2ff6fa33eb6e53815a2ad2864dbb20ae66d53a58fc825b767efa4804e49.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/人打嗝音效.mp3": {
+      "path": "audio/bf/bffc222d349d20274f54b3ca1c09ec6c149c88deb74d3f3fd9e61aaf0a8696d2.mp3",
+      "sha256": "bffc222d349d20274f54b3ca1c09ec6c149c88deb74d3f3fd9e61aaf0a8696d2",
+      "bytes": 16344,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/bf/bffc222d349d20274f54b3ca1c09ec6c149c88deb74d3f3fd9e61aaf0a8696d2.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/人放屁音效.mp3": {
+      "path": "audio/27/27a13e9c8d605b6f1dfc2e128c6ab157f761031389e5081e0a9bbd4993bbe7bd.mp3",
+      "sha256": "27a13e9c8d605b6f1dfc2e128c6ab157f761031389e5081e0a9bbd4993bbe7bd",
+      "bytes": 28883,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/27/27a13e9c8d605b6f1dfc2e128c6ab157f761031389e5081e0a9bbd4993bbe7bd.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/人物回忆音效.mp3": {
+      "path": "audio/9a/9a7e26dcaca20c5a9fec737beb227c7ec1fffd692bd2b20a831ca150c90889dd.mp3",
+      "sha256": "9a7e26dcaca20c5a9fec737beb227c7ec1fffd692bd2b20a831ca150c90889dd",
+      "bytes": 10769,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/9a/9a7e26dcaca20c5a9fec737beb227c7ec1fffd692bd2b20a831ca150c90889dd.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/人物跳落音效.mp3": {
+      "path": "audio/0b/0b1118367f4e92273c43afb84642db8ac4643c30658e74675e90042c629b3927.mp3",
+      "sha256": "0b1118367f4e92273c43afb84642db8ac4643c30658e74675e90042c629b3927",
+      "bytes": 18852,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/0b/0b1118367f4e92273c43afb84642db8ac4643c30658e74675e90042c629b3927.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/众举枪音效.mp3": {
+      "path": "audio/14/140d2849f2c736202b96ce778793dbd34a2a2fe5b86cefb8753e276d375a6699.mp3",
+      "sha256": "140d2849f2c736202b96ce778793dbd34a2a2fe5b86cefb8753e276d375a6699",
+      "bytes": 14046,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/14/140d2849f2c736202b96ce778793dbd34a2a2fe5b86cefb8753e276d375a6699.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/传送音效.mp3": {
+      "path": "audio/57/573160331e1aafea84c5e760b69c83096a03b9b79ea010cfcfde9b2c52ef8bbc.mp3",
+      "sha256": "573160331e1aafea84c5e760b69c83096a03b9b79ea010cfcfde9b2c52ef8bbc",
+      "bytes": 10222,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/57/573160331e1aafea84c5e760b69c83096a03b9b79ea010cfcfde9b2c52ef8bbc.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/兵虚化实音效.mp3": {
+      "path": "audio/5d/5d33ee21257df61db53dae2b29846b2306818e1cc0164899ccf9136b4bdca30e.mp3",
+      "sha256": "5d33ee21257df61db53dae2b29846b2306818e1cc0164899ccf9136b4bdca30e",
+      "bytes": 28770,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/5d/5d33ee21257df61db53dae2b29846b2306818e1cc0164899ccf9136b4bdca30e.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/冰霜扩散音效.mp3": {
+      "path": "audio/2f/2f650124cff6b8f29f5a1f20e833da0b8260d87c21a5e8895b060a632df0b01a.mp3",
+      "sha256": "2f650124cff6b8f29f5a1f20e833da0b8260d87c21a5e8895b060a632df0b01a",
+      "bytes": 67528,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/2f/2f650124cff6b8f29f5a1f20e833da0b8260d87c21a5e8895b060a632df0b01a.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/击水声音效.mp3": {
+      "path": "audio/45/4564ad9b5440d91148bc4cc3003742102804281f0bd686beb634b84f5a22b537.mp3",
+      "sha256": "4564ad9b5440d91148bc4cc3003742102804281f0bd686beb634b84f5a22b537",
+      "bytes": 68171,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/45/4564ad9b5440d91148bc4cc3003742102804281f0bd686beb634b84f5a22b537.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/刀剑斩击音效.mp3": {
+      "path": "audio/db/db2744b7469e728aa5eaf15b15ff9739150a53c23d9900f421cf24e400ec000d.mp3",
+      "sha256": "db2744b7469e728aa5eaf15b15ff9739150a53c23d9900f421cf24e400ec000d",
+      "bytes": 17202,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/db/db2744b7469e728aa5eaf15b15ff9739150a53c23d9900f421cf24e400ec000d.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/刀斩密集音效.mp3": {
+      "path": "audio/ed/ed4fb05cee277a8a1cef1215ec569e6449316dbc8a6a766345786018de9202de.mp3",
+      "sha256": "ed4fb05cee277a8a1cef1215ec569e6449316dbc8a6a766345786018de9202de",
+      "bytes": 30555,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/ed/ed4fb05cee277a8a1cef1215ec569e6449316dbc8a6a766345786018de9202de.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/卷起纸音效.mp3": {
+      "path": "audio/c8/c8934c6475017c102be8f92abebdc74d679705c96fa239f776556a05399e9186.mp3",
+      "sha256": "c8934c6475017c102be8f92abebdc74d679705c96fa239f776556a05399e9186",
+      "bytes": 37715,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/c8/c8934c6475017c102be8f92abebdc74d679705c96fa239f776556a05399e9186.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/吃火腿音效.mp3": {
+      "path": "audio/e5/e5f70a188001c43dfceab11ef5b3a96cec466f079b974c6485db08203fd45e93.mp3",
+      "sha256": "e5f70a188001c43dfceab11ef5b3a96cec466f079b974c6485db08203fd45e93",
+      "bytes": 139828,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/e5/e5f70a188001c43dfceab11ef5b3a96cec466f079b974c6485db08203fd45e93.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/吃火腿音效2.mp3": {
+      "path": "audio/88/88a26905768e3d8667a1a53d9945b88d389f89d1a159ac852ee1416f9884d620.mp3",
+      "sha256": "88a26905768e3d8667a1a53d9945b88d389f89d1a159ac852ee1416f9884d620",
+      "bytes": 52182,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/88/88a26905768e3d8667a1a53d9945b88d389f89d1a159ac852ee1416f9884d620.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/吃面面音效.mp3": {
+      "path": "audio/54/54c80a19fb2896e31fd75fa52d9dcf9f2fcb89f7f217d579a441b71011f33d7f.mp3",
+      "sha256": "54c80a19fb2896e31fd75fa52d9dcf9f2fcb89f7f217d579a441b71011f33d7f",
+      "bytes": 162868,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/54/54c80a19fb2896e31fd75fa52d9dcf9f2fcb89f7f217d579a441b71011f33d7f.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/城市车噪音效.mp3": {
+      "path": "audio/df/df465a09cc32091d73ea0441dfefaab791829a1371d72a8d01f70276161e19e4.mp3",
+      "sha256": "df465a09cc32091d73ea0441dfefaab791829a1371d72a8d01f70276161e19e4",
+      "bytes": 27244,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/df/df465a09cc32091d73ea0441dfefaab791829a1371d72a8d01f70276161e19e4.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/夏日蝉鸣音效.mp3": {
+      "path": "audio/c7/c70337ce43a6e5baf1f46815fcdb58d7e12c13d94189cdd08d1f9668995973dd.mp3",
+      "sha256": "c70337ce43a6e5baf1f46815fcdb58d7e12c13d94189cdd08d1f9668995973dd",
+      "bytes": 95756,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/c7/c70337ce43a6e5baf1f46815fcdb58d7e12c13d94189cdd08d1f9668995973dd.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/大象叫音效.mp3": {
+      "path": "audio/c5/c5c797124446a5c1cc457f1fb52f01ee814232a6aa2a6897971e4bced26549c6.mp3",
+      "sha256": "c5c797124446a5c1cc457f1fb52f01ee814232a6aa2a6897971e4bced26549c6",
+      "bytes": 41004,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/c5/c5c797124446a5c1cc457f1fb52f01ee814232a6aa2a6897971e4bced26549c6.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/失足落水音效.mp3": {
+      "path": "audio/92/92822e5e11c90279977595971e5bf1e0efdaa57b14e1326c50eafff27ab3cf61.mp3",
+      "sha256": "92822e5e11c90279977595971e5bf1e0efdaa57b14e1326c50eafff27ab3cf61",
+      "bytes": 39592,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/92/92822e5e11c90279977595971e5bf1e0efdaa57b14e1326c50eafff27ab3cf61.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/头颅滚音效.mp3": {
+      "path": "audio/d1/d1d297ad3f5b4f15d65ab5ab43f4269c06e88106cfc5d6480611d4f8d8c839d2.mp3",
+      "sha256": "d1d297ad3f5b4f15d65ab5ab43f4269c06e88106cfc5d6480611d4f8d8c839d2",
+      "bytes": 14492,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/d1/d1d297ad3f5b4f15d65ab5ab43f4269c06e88106cfc5d6480611d4f8d8c839d2.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/女中咳音效.mp3": {
+      "path": "audio/3a/3a64c67b167c0bb69436635842c90ce6cf8549b253529ff17102df36f60761a9.mp3",
+      "sha256": "3a64c67b167c0bb69436635842c90ce6cf8549b253529ff17102df36f60761a9",
+      "bytes": 10911,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/3a/3a64c67b167c0bb69436635842c90ce6cf8549b253529ff17102df36f60761a9.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/女清嗓音效.mp3": {
+      "path": "audio/72/721e533e4b355479256bd808c73c892572db8374a68921c440fb07dc4591ef99.mp3",
+      "sha256": "721e533e4b355479256bd808c73c892572db8374a68921c440fb07dc4591ef99",
+      "bytes": 26163,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/72/721e533e4b355479256bd808c73c892572db8374a68921c440fb07dc4591ef99.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/女鬼笑音效.mp3": {
+      "path": "audio/f1/f1f4e0ef08254ce7e7db18065dbf4c959342d44a347370ddfa108e4e1246f810.mp3",
+      "sha256": "f1f4e0ef08254ce7e7db18065dbf4c959342d44a347370ddfa108e4e1246f810",
+      "bytes": 15148,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/f1/f1f4e0ef08254ce7e7db18065dbf4c959342d44a347370ddfa108e4e1246f810.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/奶猫叫音效.mp3": {
+      "path": "audio/9a/9acc6899ba88bd4ccc9232b37c8866795d32e4a07d1403023006c7a97c5e1e19.mp3",
+      "sha256": "9acc6899ba88bd4ccc9232b37c8866795d32e4a07d1403023006c7a97c5e1e19",
+      "bytes": 14555,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/9a/9acc6899ba88bd4ccc9232b37c8866795d32e4a07d1403023006c7a97c5e1e19.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/孩童嬉闹音效.mp3": {
+      "path": "audio/b1/b10604fc6e957977f8dc74cbe75cc45b4533648a5514f786fcdaa887a87e94f3.mp3",
+      "sha256": "b10604fc6e957977f8dc74cbe75cc45b4533648a5514f786fcdaa887a87e94f3",
+      "bytes": 78334,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/b1/b10604fc6e957977f8dc74cbe75cc45b4533648a5514f786fcdaa887a87e94f3.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/山顶吹风音效.mp3": {
+      "path": "audio/26/269298422b9052e06c23050d595c9fcdf209b91dc5ec07cab8385ff488af5f33.mp3",
+      "sha256": "269298422b9052e06c23050d595c9fcdf209b91dc5ec07cab8385ff488af5f33",
+      "bytes": 166228,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/26/269298422b9052e06c23050d595c9fcdf209b91dc5ec07cab8385ff488af5f33.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/嵌合声音效.mp3": {
+      "path": "audio/b6/b6a2297a149ce9ad6ca7d0ddec2bd6f8fd88e8c53d77be7f90fc3ee29e2e49ba.mp3",
+      "sha256": "b6a2297a149ce9ad6ca7d0ddec2bd6f8fd88e8c53d77be7f90fc3ee29e2e49ba",
+      "bytes": 16855,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/b6/b6a2297a149ce9ad6ca7d0ddec2bd6f8fd88e8c53d77be7f90fc3ee29e2e49ba.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/巨人走路音效.mp3": {
+      "path": "audio/82/8298afa77096f0f4a220578aaca6535f1a6d1b0f4f284b3d3673cf1dd9266801.mp3",
+      "sha256": "8298afa77096f0f4a220578aaca6535f1a6d1b0f4f284b3d3673cf1dd9266801",
+      "bytes": 38338,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/82/8298afa77096f0f4a220578aaca6535f1a6d1b0f4f284b3d3673cf1dd9266801.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/幻翼展开音效.mp3": {
+      "path": "audio/b2/b2eafc5a8bf41a8e50fa1df6bbb16f177ea75a77caac559d6e17edb6e848b10f.mp3",
+      "sha256": "b2eafc5a8bf41a8e50fa1df6bbb16f177ea75a77caac559d6e17edb6e848b10f",
+      "bytes": 18462,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/b2/b2eafc5a8bf41a8e50fa1df6bbb16f177ea75a77caac559d6e17edb6e848b10f.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/开折扇音效.mp3": {
+      "path": "audio/c5/c56ce8e7e5f65e131ad2e82c13605ce4467e775d9d9cbea71fd5a7e28cdbcf2b.mp3",
+      "sha256": "c56ce8e7e5f65e131ad2e82c13605ce4467e775d9d9cbea71fd5a7e28cdbcf2b",
+      "bytes": 11953,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/c5/c56ce8e7e5f65e131ad2e82c13605ce4467e775d9d9cbea71fd5a7e28cdbcf2b.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/心神回归音效.mp3": {
+      "path": "audio/9a/9a7e26dcaca20c5a9fec737beb227c7ec1fffd692bd2b20a831ca150c90889dd.mp3",
+      "sha256": "9a7e26dcaca20c5a9fec737beb227c7ec1fffd692bd2b20a831ca150c90889dd",
+      "bytes": 10769,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/9a/9a7e26dcaca20c5a9fec737beb227c7ec1fffd692bd2b20a831ca150c90889dd.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/手指叩桌音效.mp3": {
+      "path": "audio/f9/f9f842b42890fa3ab3da9c46e735ba07de15ac145809bdcd7963b5f71b5f4ccd.mp3",
+      "sha256": "f9f842b42890fa3ab3da9c46e735ba07de15ac145809bdcd7963b5f71b5f4ccd",
+      "bytes": 44347,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/f9/f9f842b42890fa3ab3da9c46e735ba07de15ac145809bdcd7963b5f71b5f4ccd.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/手捻符音效.mp3": {
+      "path": "audio/b8/b8d40dbc418126477dc09c778d2b1df4a4dbc13e55bb1c0ea6c72102e4b62ab8.mp3",
+      "sha256": "b8d40dbc418126477dc09c778d2b1df4a4dbc13e55bb1c0ea6c72102e4b62ab8",
+      "bytes": 19397,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/b8/b8d40dbc418126477dc09c778d2b1df4a4dbc13e55bb1c0ea6c72102e4b62ab8.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/手机弱电音效.mp3": {
+      "path": "audio/29/298d7404184e291c89d6d2b769a2bd803562206d5c778a3bf9f4c830cfcab4d7.mp3",
+      "sha256": "298d7404184e291c89d6d2b769a2bd803562206d5c778a3bf9f4c830cfcab4d7",
+      "bytes": 6105,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/29/298d7404184e291c89d6d2b769a2bd803562206d5c778a3bf9f4c830cfcab4d7.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/手机拨号音效.mp3": {
+      "path": "audio/ab/ab6caf643745c8fb5ea6af407b6316d3ddead2391b7188352d097bc2b3df3032.mp3",
+      "sha256": "ab6caf643745c8fb5ea6af407b6316d3ddead2391b7188352d097bc2b3df3032",
+      "bytes": 21408,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/ab/ab6caf643745c8fb5ea6af407b6316d3ddead2391b7188352d097bc2b3df3032.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/打台球音效.mp3": {
+      "path": "audio/62/6271f32620ebbd0cac3e5afcba8f64fc7a0326c13b1ba7a6ef8e48654817f3d6.mp3",
+      "sha256": "6271f32620ebbd0cac3e5afcba8f64fc7a0326c13b1ba7a6ef8e48654817f3d6",
+      "bytes": 24326,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/62/6271f32620ebbd0cac3e5afcba8f64fc7a0326c13b1ba7a6ef8e48654817f3d6.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/打斗带风音效.mp3": {
+      "path": "audio/7e/7ece0d0d43639bb9060de2370dca3db39255ed9e8660f500dd172c4f2599fd5e.mp3",
+      "sha256": "7ece0d0d43639bb9060de2370dca3db39255ed9e8660f500dd172c4f2599fd5e",
+      "bytes": 16302,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/7e/7ece0d0d43639bb9060de2370dca3db39255ed9e8660f500dd172c4f2599fd5e.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/抛硬币音效.mp3": {
+      "path": "audio/52/523a69dc961d153e0d48e74ae1e4f980a97aa44787d3c5d86a3a1d5fafb383da.mp3",
+      "sha256": "523a69dc961d153e0d48e74ae1e4f980a97aa44787d3c5d86a3a1d5fafb383da",
+      "bytes": 17180,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/52/523a69dc961d153e0d48e74ae1e4f980a97aa44787d3c5d86a3a1d5fafb383da.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/抛鱼竿音效.mp3": {
+      "path": "audio/17/172b4f6af86b0869dc8ee88613321a5c34e93a807ec64cc2b84785e9f9a544c0.mp3",
+      "sha256": "172b4f6af86b0869dc8ee88613321a5c34e93a807ec64cc2b84785e9f9a544c0",
+      "bytes": 20999,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/17/172b4f6af86b0869dc8ee88613321a5c34e93a807ec64cc2b84785e9f9a544c0.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/护盾开启音效.mp3": {
+      "path": "audio/b6/b6e33a052675594ddc25736f8ff8466868941890f05ae1a9d9995fc19d7f5931.mp3",
+      "sha256": "b6e33a052675594ddc25736f8ff8466868941890f05ae1a9d9995fc19d7f5931",
+      "bytes": 47295,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/b6/b6e33a052675594ddc25736f8ff8466868941890f05ae1a9d9995fc19d7f5931.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/拍桌子音效.mp3": {
+      "path": "audio/df/dfd9929c74130e1af5050351310fae53ec25cbe3fff5a34e0a913f643dad5b21.mp3",
+      "sha256": "dfd9929c74130e1af5050351310fae53ec25cbe3fff5a34e0a913f643dad5b21",
+      "bytes": 14030,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/df/dfd9929c74130e1af5050351310fae53ec25cbe3fff5a34e0a913f643dad5b21.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/拧毛巾音效.mp3": {
+      "path": "audio/42/42c56346fc00c4f132ab59a81a277fe6f2143d04d05b1ef2982adc8498acd07d.mp3",
+      "sha256": "42c56346fc00c4f132ab59a81a277fe6f2143d04d05b1ef2982adc8498acd07d",
+      "bytes": 51035,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/42/42c56346fc00c4f132ab59a81a277fe6f2143d04d05b1ef2982adc8498acd07d.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/持笔书写音效.mp3": {
+      "path": "audio/a4/a487c887557ec9a17a23c87773357e94311a4a99ef0e7b6eb5a8e12d00b277f6.mp3",
+      "sha256": "a487c887557ec9a17a23c87773357e94311a4a99ef0e7b6eb5a8e12d00b277f6",
+      "bytes": 48527,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a4/a487c887557ec9a17a23c87773357e94311a4a99ef0e7b6eb5a8e12d00b277f6.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/推轮椅音效.mp3": {
+      "path": "audio/3a/3a845a8e025964fde3a57912c0e308b52629875ecde9fd2a43f14b4f62617151.mp3",
+      "sha256": "3a845a8e025964fde3a57912c0e308b52629875ecde9fd2a43f14b4f62617151",
+      "bytes": 37729,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/3a/3a845a8e025964fde3a57912c0e308b52629875ecde9fd2a43f14b4f62617151.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/插入身体音效.mp3": {
+      "path": "audio/b8/b80619ea1942d1aa04ad093a952cbd9ae6bdf31f97c6ac5df845090b8bd9f8a3.mp3",
+      "sha256": "b80619ea1942d1aa04ad093a952cbd9ae6bdf31f97c6ac5df845090b8bd9f8a3",
+      "bytes": 24388,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/b8/b80619ea1942d1aa04ad093a952cbd9ae6bdf31f97c6ac5df845090b8bd9f8a3.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/搓搓手音效.mp3": {
+      "path": "audio/86/86646b060392acdb84cb9d782d5a2f78ed5501c75ee92e759ba742425d70cb1b.mp3",
+      "sha256": "86646b060392acdb84cb9d782d5a2f78ed5501c75ee92e759ba742425d70cb1b",
+      "bytes": 27261,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/86/86646b060392acdb84cb9d782d5a2f78ed5501c75ee92e759ba742425d70cb1b.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/摘花的音效.mp3": {
+      "path": "audio/30/304c2fb7a19d7a46a1e7fea5072c984911f222dda67c51a09e52ead598de601d.mp3",
+      "sha256": "304c2fb7a19d7a46a1e7fea5072c984911f222dda67c51a09e52ead598de601d",
+      "bytes": 29908,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/30/304c2fb7a19d7a46a1e7fea5072c984911f222dda67c51a09e52ead598de601d.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/放包裹音效.mp3": {
+      "path": "audio/00/002be3db8645f83e44d09814ae4f5517b1b64ab49eed12bf2b4182e66246d656.mp3",
+      "sha256": "002be3db8645f83e44d09814ae4f5517b1b64ab49eed12bf2b4182e66246d656",
+      "bytes": 24829,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/00/002be3db8645f83e44d09814ae4f5517b1b64ab49eed12bf2b4182e66246d656.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/森林鸟鸣音效.mp3": {
+      "path": "audio/cd/cd1838eede8bb757368d21caaae082500a419da14f237455dfc840b35becc36d.mp3",
+      "sha256": "cd1838eede8bb757368d21caaae082500a419da14f237455dfc840b35becc36d",
+      "bytes": 193108,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/cd/cd1838eede8bb757368d21caaae082500a419da14f237455dfc840b35becc36d.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/楼道走音效.mp3": {
+      "path": "audio/a2/a2444e8c060eff7d703e54871cf4dc64ca411b01ae6030aad00875da17d726c4.mp3",
+      "sha256": "a2444e8c060eff7d703e54871cf4dc64ca411b01ae6030aad00875da17d726c4",
+      "bytes": 37279,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a2/a2444e8c060eff7d703e54871cf4dc64ca411b01ae6030aad00875da17d726c4.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/欢呼声音效.mp3": {
+      "path": "audio/a8/a8000787f3ab80ea39943cb3e120a2076c1e781237d35e886d36ea6ff088b604.mp3",
+      "sha256": "a8000787f3ab80ea39943cb3e120a2076c1e781237d35e886d36ea6ff088b604",
+      "bytes": 81546,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a8/a8000787f3ab80ea39943cb3e120a2076c1e781237d35e886d36ea6ff088b604.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/毒液腐蚀音效.mp3": {
+      "path": "audio/8f/8fcf0e98fc5b06b714d21193e414dc70a4eb243cbdc08cb95a81e4b0b6d16d74.mp3",
+      "sha256": "8fcf0e98fc5b06b714d21193e414dc70a4eb243cbdc08cb95a81e4b0b6d16d74",
+      "bytes": 9449,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/8f/8fcf0e98fc5b06b714d21193e414dc70a4eb243cbdc08cb95a81e4b0b6d16d74.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/水中走音效.mp3": {
+      "path": "audio/a5/a54897b5b5b3d932272c835ce7632bb6cc748f92afe17f4ea8ea9e9bfb6a4717.mp3",
+      "sha256": "a54897b5b5b3d932272c835ce7632bb6cc748f92afe17f4ea8ea9e9bfb6a4717",
+      "bytes": 17073,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a5/a54897b5b5b3d932272c835ce7632bb6cc748f92afe17f4ea8ea9e9bfb6a4717.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/汽车车噪音效.mp3": {
+      "path": "audio/df/df465a09cc32091d73ea0441dfefaab791829a1371d72a8d01f70276161e19e4.mp3",
+      "sha256": "df465a09cc32091d73ea0441dfefaab791829a1371d72a8d01f70276161e19e4",
+      "bytes": 27244,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/df/df465a09cc32091d73ea0441dfefaab791829a1371d72a8d01f70276161e19e4.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/治疗术法音效.mp3": {
+      "path": "audio/b0/b01cce158c68d1c4d586ba1e28e20d64e81f025a67a78525b96e4501e89fade8.mp3",
+      "sha256": "b01cce158c68d1c4d586ba1e28e20d64e81f025a67a78525b96e4501e89fade8",
+      "bytes": 19062,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/b0/b01cce158c68d1c4d586ba1e28e20d64e81f025a67a78525b96e4501e89fade8.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/浇花的音效.mp3": {
+      "path": "audio/e2/e260e4bc006217719bd6bbe2dd33ed44cc936328f14f1b6655377a3d36326f73.mp3",
+      "sha256": "e260e4bc006217719bd6bbe2dd33ed44cc936328f14f1b6655377a3d36326f73",
+      "bytes": 117268,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/e2/e260e4bc006217719bd6bbe2dd33ed44cc936328f14f1b6655377a3d36326f73.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/炮装填音效.mp3": {
+      "path": "audio/63/63c2a293152b47c6487086d3303843f9562c9eb6c190418bc45c87c9013c6a5c.mp3",
+      "sha256": "63c2a293152b47c6487086d3303843f9562c9eb6c190418bc45c87c9013c6a5c",
+      "bytes": 69843,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/63/63c2a293152b47c6487086d3303843f9562c9eb6c190418bc45c87c9013c6a5c.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/烟尘起落音效.mp3": {
+      "path": "audio/4f/4f4bd29c885ec789c9d10478c86ec8538091edb6c87ab9596550e702d5787a5e.mp3",
+      "sha256": "4f4bd29c885ec789c9d10478c86ec8538091edb6c87ab9596550e702d5787a5e",
+      "bytes": 35452,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/4f/4f4bd29c885ec789c9d10478c86ec8538091edb6c87ab9596550e702d5787a5e.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/犬跑动音效.mp3": {
+      "path": "audio/e8/e80bae4eac8860a468c518a147ed617ae9740e6e1f74bdee473134c1c9d8c9bf.mp3",
+      "sha256": "e80bae4eac8860a468c518a147ed617ae9740e6e1f74bdee473134c1c9d8c9bf",
+      "bytes": 23335,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/e8/e80bae4eac8860a468c518a147ed617ae9740e6e1f74bdee473134c1c9d8c9bf.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/狗叫声音效.mp3": {
+      "path": "audio/1e/1eb611f75891955c92b1db57381a06631f2341f06753ce60af464079df46dae2.mp3",
+      "sha256": "1eb611f75891955c92b1db57381a06631f2341f06753ce60af464079df46dae2",
+      "bytes": 21778,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/1e/1eb611f75891955c92b1db57381a06631f2341f06753ce60af464079df46dae2.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/猛兽喘息音效.mp3": {
+      "path": "audio/4e/4ea1ea7f41731ba6d2dcb61f69d5427379c65f7a3add7032522fe3e1ed3a7163.mp3",
+      "sha256": "4ea1ea7f41731ba6d2dcb61f69d5427379c65f7a3add7032522fe3e1ed3a7163",
+      "bytes": 49781,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/4e/4ea1ea7f41731ba6d2dcb61f69d5427379c65f7a3add7032522fe3e1ed3a7163.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/电话响铃音效.mp3": {
+      "path": "audio/a2/a2da4a75c8408eef3d71418087a1fddd32be7afcc133babd1de009f8bd793a2a.mp3",
+      "sha256": "a2da4a75c8408eef3d71418087a1fddd32be7afcc133babd1de009f8bd793a2a",
+      "bytes": 16029,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a2/a2da4a75c8408eef3d71418087a1fddd32be7afcc133babd1de009f8bd793a2a.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/电话挂断音效.mp3": {
+      "path": "audio/78/782fef4f317742e5d90957bdc1d253365c935f8fcff8d912fc63b6ab0834063a.mp3",
+      "sha256": "782fef4f317742e5d90957bdc1d253365c935f8fcff8d912fc63b6ab0834063a",
+      "bytes": 19686,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/78/782fef4f317742e5d90957bdc1d253365c935f8fcff8d912fc63b6ab0834063a.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/电路故障音效.mp3": {
+      "path": "audio/20/20513051eb18f7da370079238ba3199aa1870af994220cbbe9107f2e3ef8132a.mp3",
+      "sha256": "20513051eb18f7da370079238ba3199aa1870af994220cbbe9107f2e3ef8132a",
+      "bytes": 19180,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/20/20513051eb18f7da370079238ba3199aa1870af994220cbbe9107f2e3ef8132a.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/男中朗笑音效.mp3": {
+      "path": "audio/82/8211735845c93007172947f08bf14be0669e6b99897cda6c75939a999bf146b9.mp3",
+      "sha256": "8211735845c93007172947f08bf14be0669e6b99897cda6c75939a999bf146b9",
+      "bytes": 54378,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/82/8211735845c93007172947f08bf14be0669e6b99897cda6c75939a999bf146b9.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/男哼曲音效.mp3": {
+      "path": "audio/dd/dd764c9fca88781d111299249c43713ef1cb08c60618172a6b6f63e236329b69.mp3",
+      "sha256": "dd764c9fca88781d111299249c43713ef1cb08c60618172a6b6f63e236329b69",
+      "bytes": 63991,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/dd/dd764c9fca88781d111299249c43713ef1cb08c60618172a6b6f63e236329b69.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/男喉哽音效.mp3": {
+      "path": "audio/3a/3a234717ecf9ae1d3e0b27a3d4fb175e0ef0494f564aecedf79d1a5d646ef037.mp3",
+      "sha256": "3a234717ecf9ae1d3e0b27a3d4fb175e0ef0494f564aecedf79d1a5d646ef037",
+      "bytes": 51453,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/3a/3a234717ecf9ae1d3e0b27a3d4fb175e0ef0494f564aecedf79d1a5d646ef037.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/男老咳音效.mp3": {
+      "path": "audio/ab/abb09edbd298250d4bca3690e2ead474bc11186169439666506cbb0b0e747934.mp3",
+      "sha256": "abb09edbd298250d4bca3690e2ead474bc11186169439666506cbb0b0e747934",
+      "bytes": 7986,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/ab/abb09edbd298250d4bca3690e2ead474bc11186169439666506cbb0b0e747934.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/白事唢呐音效.mp3": {
+      "path": "audio/6c/6c362e4ac63b8208f43026459d0931bf63b669135a2c81a7f9dae3e1f81c880d.mp3",
+      "sha256": "6c362e4ac63b8208f43026459d0931bf63b669135a2c81a7f9dae3e1f81c880d",
+      "bytes": 50200,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/6c/6c362e4ac63b8208f43026459d0931bf63b669135a2c81a7f9dae3e1f81c880d.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/盾兵崩碎音效.mp3": {
+      "path": "audio/bf/bffc4b71a3a4683d7402bb9b1ead8a443508e7c3c22a4590e84ba4da5fa65f11.mp3",
+      "sha256": "bffc4b71a3a4683d7402bb9b1ead8a443508e7c3c22a4590e84ba4da5fa65f11",
+      "bytes": 30137,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/bf/bffc4b71a3a4683d7402bb9b1ead8a443508e7c3c22a4590e84ba4da5fa65f11.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/破门声音效.mp3": {
+      "path": "audio/6a/6a9ff0367c643200d55be172fdcaeff90de602cd4f5a65e0acd7befe7030d7f7.mp3",
+      "sha256": "6a9ff0367c643200d55be172fdcaeff90de602cd4f5a65e0acd7befe7030d7f7",
+      "bytes": 23449,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/6a/6a9ff0367c643200d55be172fdcaeff90de602cd4f5a65e0acd7befe7030d7f7.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/祭法宝音效.mp3": {
+      "path": "audio/f3/f3d4cac4384ccea5b0043b65686b2de84f95464c465928870830e8252d202e82.mp3",
+      "sha256": "f3d4cac4384ccea5b0043b65686b2de84f95464c465928870830e8252d202e82",
+      "bytes": 15509,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/f3/f3d4cac4384ccea5b0043b65686b2de84f95464c465928870830e8252d202e82.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/窗户破碎音效.mp3": {
+      "path": "audio/15/155d0ff24d115910f9f087688152e1f67585827d8349964dc821fa3a31b66240.mp3",
+      "sha256": "155d0ff24d115910f9f087688152e1f67585827d8349964dc821fa3a31b66240",
+      "bytes": 23031,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/15/155d0ff24d115910f9f087688152e1f67585827d8349964dc821fa3a31b66240.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/竖瞳睁开音效.mp3": {
+      "path": "audio/f3/f3d4cac4384ccea5b0043b65686b2de84f95464c465928870830e8252d202e82.mp3",
+      "sha256": "f3d4cac4384ccea5b0043b65686b2de84f95464c465928870830e8252d202e82",
+      "bytes": 15509,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/f3/f3d4cac4384ccea5b0043b65686b2de84f95464c465928870830e8252d202e82.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/系安全带音效.mp3": {
+      "path": "audio/0a/0ac5d27b1f803861c2e8e309fd651bdecf9a88bd1254da482bf1ce88950f8cec.mp3",
+      "sha256": "0ac5d27b1f803861c2e8e309fd651bdecf9a88bd1254da482bf1ce88950f8cec",
+      "bytes": 26204,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/0a/0ac5d27b1f803861c2e8e309fd651bdecf9a88bd1254da482bf1ce88950f8cec.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/纸洒落音效.mp3": {
+      "path": "audio/a7/a70b7559223cea0795a48c43a1da9b54089d10f499a7f56e26e078fd4f51d441.mp3",
+      "sha256": "a70b7559223cea0795a48c43a1da9b54089d10f499a7f56e26e078fd4f51d441",
+      "bytes": 48945,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a7/a70b7559223cea0795a48c43a1da9b54089d10f499a7f56e26e078fd4f51d441.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/翻书快音效.mp3": {
+      "path": "audio/53/531f06c12d735ce2236fcfd9a7e673d834422b016f488c319c063149e0dc3c2e.mp3",
+      "sha256": "531f06c12d735ce2236fcfd9a7e673d834422b016f488c319c063149e0dc3c2e",
+      "bytes": 43832,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/53/531f06c12d735ce2236fcfd9a7e673d834422b016f488c319c063149e0dc3c2e.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/肉挤压音效.mp3": {
+      "path": "audio/2b/2b11ec904cedfbe74afd7f65310afa5dde503b137738f0ae6b3c16e57c882ad1.mp3",
+      "sha256": "2b11ec904cedfbe74afd7f65310afa5dde503b137738f0ae6b3c16e57c882ad1",
+      "bytes": 18725,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/2b/2b11ec904cedfbe74afd7f65310afa5dde503b137738f0ae6b3c16e57c882ad1.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/脚步沉音效.mp3": {
+      "path": "audio/8d/8df37bdbff06927b5d5168857b1788bc38347323eaadf02c701b191df057ce1c.mp3",
+      "sha256": "8df37bdbff06927b5d5168857b1788bc38347323eaadf02c701b191df057ce1c",
+      "bytes": 57745,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/8d/8df37bdbff06927b5d5168857b1788bc38347323eaadf02c701b191df057ce1c.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/脚步轻音效.mp3": {
+      "path": "audio/05/05fc37e8f960ad92b3fd3bede2d8347d59ceccda0243bd71e5df11e344e056ea.mp3",
+      "sha256": "05fc37e8f960ad92b3fd3bede2d8347d59ceccda0243bd71e5df11e344e056ea",
+      "bytes": 30137,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/05/05fc37e8f960ad92b3fd3bede2d8347d59ceccda0243bd71e5df11e344e056ea.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/舀汤声音效.mp3": {
+      "path": "audio/a2/a22bde43b9ba4aeb6600591bec96ba0a50235bd1fa0c4067aaf9bdb51969171c.mp3",
+      "sha256": "a22bde43b9ba4aeb6600591bec96ba0a50235bd1fa0c4067aaf9bdb51969171c",
+      "bytes": 58508,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a2/a22bde43b9ba4aeb6600591bec96ba0a50235bd1fa0c4067aaf9bdb51969171c.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/蚊子叫音效.mp3": {
+      "path": "audio/c3/c35f74b927ace841e8ad587fa9b5aff49f41a17b1a16ca5ffd16fbea72867fd7.mp3",
+      "sha256": "c35f74b927ace841e8ad587fa9b5aff49f41a17b1a16ca5ffd16fbea72867fd7",
+      "bytes": 72768,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/c3/c35f74b927ace841e8ad587fa9b5aff49f41a17b1a16ca5ffd16fbea72867fd7.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/蜜蜂飞音效.mp3": {
+      "path": "audio/7e/7e3849266399aac308bb27cfb52f8409ff5a6b9bfb98189935c445ad61816625.mp3",
+      "sha256": "7e3849266399aac308bb27cfb52f8409ff5a6b9bfb98189935c445ad61816625",
+      "bytes": 30138,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/7e/7e3849266399aac308bb27cfb52f8409ff5a6b9bfb98189935c445ad61816625.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/解安全带音效.mp3": {
+      "path": "audio/aa/aa797e5ef2c5bbe3eb38056f5793365ec1b04dd47386028d06a25a59f7230829.mp3",
+      "sha256": "aa797e5ef2c5bbe3eb38056f5793365ec1b04dd47386028d06a25a59f7230829",
+      "bytes": 20770,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/aa/aa797e5ef2c5bbe3eb38056f5793365ec1b04dd47386028d06a25a59f7230829.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/车窗升降音效.mp3": {
+      "path": "audio/f6/f6b683659f604ee54580bf4d827556c94873d2ae5392606266364dd7baee77c5.mp3",
+      "sha256": "f6b683659f604ee54580bf4d827556c94873d2ae5392606266364dd7baee77c5",
+      "bytes": 18607,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/f6/f6b683659f604ee54580bf4d827556c94873d2ae5392606266364dd7baee77c5.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/转场琴声音效.mp3": {
+      "path": "audio/55/552b8c193fd879f8e1d1e9b861fadaf69289d7615c12e2d3875f9432d355ef20.mp3",
+      "sha256": "552b8c193fd879f8e1d1e9b861fadaf69289d7615c12e2d3875f9432d355ef20",
+      "bytes": 65720,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/55/552b8c193fd879f8e1d1e9b861fadaf69289d7615c12e2d3875f9432d355ef20.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/轰隆隆.mp3": {
+      "path": "audio/9d/9d90916b44097eae80c75de19a8454000be2f657e68a3be41a91ac1a0a98dcbb.mp3",
+      "sha256": "9d90916b44097eae80c75de19a8454000be2f657e68a3be41a91ac1a0a98dcbb",
+      "bytes": 21359,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/9d/9d90916b44097eae80c75de19a8454000be2f657e68a3be41a91ac1a0a98dcbb.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/轻慢去里音效2.mp3": {
+      "path": "audio/94/94ee60b9b0fa118cb5dbb574a351cf5bcb55caed70175948fd28339adb141f4c.mp3",
+      "sha256": "94ee60b9b0fa118cb5dbb574a351cf5bcb55caed70175948fd28339adb141f4c",
+      "bytes": 18225,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/94/94ee60b9b0fa118cb5dbb574a351cf5bcb55caed70175948fd28339adb141f4c.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/轻慢去里音效3.mp3": {
+      "path": "audio/64/64830cbf238549b70dd0cd27cefaa52aa586765ce277e15046b1659b8d5026f9.mp3",
+      "sha256": "64830cbf238549b70dd0cd27cefaa52aa586765ce277e15046b1659b8d5026f9",
+      "bytes": 16762,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/64/64830cbf238549b70dd0cd27cefaa52aa586765ce277e15046b1659b8d5026f9.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/轻慢去里音效4.mp3": {
+      "path": "audio/af/afd0fd297876a4d3395303faff0b922d6ad3ab3a359443758d6233e9741ba976.mp3",
+      "sha256": "afd0fd297876a4d3395303faff0b922d6ad3ab3a359443758d6233e9741ba976",
+      "bytes": 37242,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/af/afd0fd297876a4d3395303faff0b922d6ad3ab3a359443758d6233e9741ba976.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/轻慢去里音效6.mp3": {
+      "path": "audio/71/71c9e1d87acc57f9f55e81094b7f77fb75d6ef34536523d1b9337e51faeda65d.mp3",
+      "sha256": "71c9e1d87acc57f9f55e81094b7f77fb75d6ef34536523d1b9337e51faeda65d",
+      "bytes": 21671,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/71/71c9e1d87acc57f9f55e81094b7f77fb75d6ef34536523d1b9337e51faeda65d.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/进退自如音效.mp3": {
+      "path": "audio/8d/8d70135fdc060a81fa566840a4b612bdef59f01550c68c39c9a068e8c3890f2d.mp3",
+      "sha256": "8d70135fdc060a81fa566840a4b612bdef59f01550c68c39c9a068e8c3890f2d",
+      "bytes": 240148,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/8d/8d70135fdc060a81fa566840a4b612bdef59f01550c68c39c9a068e8c3890f2d.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/递接纸音效.mp3": {
+      "path": "audio/bd/bd100d478a446ee0764fd69d0046b6e1646bd7c5c4a96d2dc2f983f3e1cb0f79.mp3",
+      "sha256": "bd100d478a446ee0764fd69d0046b6e1646bd7c5c4a96d2dc2f983f3e1cb0f79",
+      "bytes": 8613,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/bd/bd100d478a446ee0764fd69d0046b6e1646bd7c5c4a96d2dc2f983f3e1cb0f79.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/重摔地音效.mp3": {
+      "path": "audio/a5/a5af85d495ef701d409bf4f8325ba0992513d9cc881550072a0f7b340527bae8.mp3",
+      "sha256": "a5af85d495ef701d409bf4f8325ba0992513d9cc881550072a0f7b340527bae8",
+      "bytes": 7986,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/a5/a5af85d495ef701d409bf4f8325ba0992513d9cc881550072a0f7b340527bae8.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/阴风阵阵音效.mp3": {
+      "path": "audio/fe/febee10ef5268bb39bbf7898d07ca27ccbcb2624a6524bdc6467dbe5b696397d.mp3",
+      "sha256": "febee10ef5268bb39bbf7898d07ca27ccbcb2624a6524bdc6467dbe5b696397d",
+      "bytes": 29511,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/fe/febee10ef5268bb39bbf7898d07ca27ccbcb2624a6524bdc6467dbe5b696397d.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/隐身术法音效.mp3": {
+      "path": "audio/87/87f3bd84106b6692b4d4625db30201a9357f48d1729e66f0eadad281c0744679.mp3",
+      "sha256": "87f3bd84106b6692b4d4625db30201a9357f48d1729e66f0eadad281c0744679",
+      "bytes": 15955,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/87/87f3bd84106b6692b4d4625db30201a9357f48d1729e66f0eadad281c0744679.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/隔空抓摄音效.mp3": {
+      "path": "audio/f1/f12462804f4e995d0f97986452ec71b22b0db82b7ec6b82e0bf118faa06636af.mp3",
+      "sha256": "f12462804f4e995d0f97986452ec71b22b0db82b7ec6b82e0bf118faa06636af",
+      "bytes": 14957,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/f1/f12462804f4e995d0f97986452ec71b22b0db82b7ec6b82e0bf118faa06636af.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/雨水打窗音效.mp3": {
+      "path": "audio/55/5514ce4d60d8494fc3fc9930ba7582c7131cd209a2641e7f4273a23105718b36.mp3",
+      "sha256": "5514ce4d60d8494fc3fc9930ba7582c7131cd209a2641e7f4273a23105718b36",
+      "bytes": 30973,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/55/5514ce4d60d8494fc3fc9930ba7582c7131cd209a2641e7f4273a23105718b36.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/静滴水声音效.mp3": {
+      "path": "audio/eb/eb168f3762a8862db8cfecf4af58845513cb32846846a5f6abb84a85bbf80395.mp3",
+      "sha256": "eb168f3762a8862db8cfecf4af58845513cb32846846a5f6abb84a85bbf80395",
+      "bytes": 21633,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/eb/eb168f3762a8862db8cfecf4af58845513cb32846846a5f6abb84a85bbf80395.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/飞坠风声音效.mp3": {
+      "path": "audio/e2/e2b4bab6fef12776b01dc446aff693f7bee204fc0d6144c5eed4f3591da60e16.mp3",
+      "sha256": "e2b4bab6fef12776b01dc446aff693f7bee204fc0d6144c5eed4f3591da60e16",
+      "bytes": 47483,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/e2/e2b4bab6fef12776b01dc446aff693f7bee204fc0d6144c5eed4f3591da60e16.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/骑兵行进音效.mp3": {
+      "path": "audio/76/767ae53476c6b627023eed605e3fc077a906b11067025aa9793fa1596928c299.mp3",
+      "sha256": "767ae53476c6b627023eed605e3fc077a906b11067025aa9793fa1596928c299",
+      "bytes": 94084,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/76/767ae53476c6b627023eed605e3fc077a906b11067025aa9793fa1596928c299.mp3"
+    },
+    "mingwuyan/yinpin/bdyinxiao/龙喷火音效.mp3": {
+      "path": "audio/d9/d9d26ea4979a60c4983d074f61f044442421a569abb919810615cffdf8eb6bb2.mp3",
+      "sha256": "d9d26ea4979a60c4983d074f61f044442421a569abb919810615cffdf8eb6bb2",
+      "bytes": 43093,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/d9/d9d26ea4979a60c4983d074f61f044442421a569abb919810615cffdf8eb6bb2.mp3"
+    },
+    "mingwuyan/yinpin/wenxintishi.mp3": {
+      "path": "audio/af/afb005c9b61ee65f653b46aa67e7c0b261125a76d15d192d3f6c659514118721.mp3",
+      "sha256": "afb005c9b61ee65f653b46aa67e7c0b261125a76d15d192d3f6c659514118721",
+      "bytes": 62920,
+      "url": "https://raw.githubusercontent.com/jwoo1982217-eng/moting-voice-materials-20261009/main/audio/af/afb005c9b61ee65f653b46aa67e7c0b261125a76d15d192d3f6c659514118721.mp3"
+    }
+  }
+}
